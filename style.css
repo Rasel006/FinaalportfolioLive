@@ -8,8 +8,8 @@
 /* =====================  Nav Bar section   =========================== */
 .nav_Logo h1 {
   background: #27a3f0;
-  font-family: "Glictchsd", cursive;
-  font-weight: 900;
+  font-family: "Poppins", unbounded;
+  font-weight: 700;
   background: linear-gradient(to right, #27a3f0 22%, #27a3f0 22%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -580,7 +580,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin: 30px;
-  font-family: "Glictchsd", cursive;
+  font-family: "Poppins", unbounded;
   font-weight: 900;
   margin-left: 0px;
 }
